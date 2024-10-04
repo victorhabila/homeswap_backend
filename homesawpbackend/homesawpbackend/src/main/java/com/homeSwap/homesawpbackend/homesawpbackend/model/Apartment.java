@@ -1,4 +1,4 @@
-package com.homeSwap.homesawpbackend.homesawpbackend;
+package com.homeSwap.homesawpbackend.homesawpbackend.model;
 
 
 import jakarta.persistence.Entity;

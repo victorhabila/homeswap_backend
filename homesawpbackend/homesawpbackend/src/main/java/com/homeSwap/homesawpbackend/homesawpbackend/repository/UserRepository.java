@@ -1,4 +1,4 @@
-package com.homeSwap.homesawpbackend.homesawpbackend;
+package com.homeSwap.homesawpbackend.homesawpbackend.repository;
 
 
 import jakarta.transaction.Transactional;

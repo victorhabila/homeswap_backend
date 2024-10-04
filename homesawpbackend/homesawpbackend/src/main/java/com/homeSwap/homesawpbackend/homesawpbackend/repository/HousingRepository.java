@@ -1,4 +1,4 @@
-package com.homeSwap.homesawpbackend.homesawpbackend;
+package com.homeSwap.homesawpbackend.homesawpbackend.repository;
 
 
 import com.homeSwap.homesawpbackend.homesawpbackend.model.housing;

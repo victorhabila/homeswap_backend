@@ -1,4 +1,4 @@
-package com.homeSwap.homesawpbackend.homesawpbackend;
+package com.homeSwap.homesawpbackend.homesawpbackend.repository;
 
 import com.homeSwap.homeswapbackend.model.Constraint;
 import jakarta.persistence.Tuple;
